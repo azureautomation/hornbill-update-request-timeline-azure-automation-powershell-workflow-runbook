@@ -1,0 +1,20 @@
+{
+    "Author": "Hornbill Service Management",
+    "ContentSize": 3657,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/hornbill-update-request-timeline-azure-automation-powershell-workflow-runbook/master/Hornbill_RequestUpdateTimeline_Workflow.ps1",
+    "DownloadCount": 708,
+    "Id": "Hornbill-Update-Request-63216ea3",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 426,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-10-13T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "Azure Powershell Runbook to update the timeline of a request within Service Manager on a Hornbill Instance",
+    "Title": "Hornbill Update Request Timeline - Azure Automation Powershell Workflow Runbook",
+    "UpdatedDate": "2017-10-13T00:00:00",
+    "Url": "https://github.com/azureautomation/hornbill-update-request-timeline-azure-automation-powershell-workflow-runbook",
+    "UserTags": "Azure, Microsoft Azure, Powershell"
+}
